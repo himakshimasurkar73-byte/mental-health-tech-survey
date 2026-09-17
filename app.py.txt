@@ -1,0 +1,5 @@
+import streamlit as st
+
+st.title("Mental Health in Tech Survey")
+
+st.write("Welcome to the Mental Health in Tech Survey Dashboard!")
